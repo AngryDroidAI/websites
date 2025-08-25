@@ -1,0 +1,66 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://003a0156.satellite-scanner.pages.dev/
+Subject: =?utf-8?Q?Satellite=20Scanner=20=E2=80=A2=20Angry=20Droid=20AI?=
+Date: Mon, 18 Aug 2025 11:49:25 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ye9AWbD3gLRYPQwTSYK4T399sryCchz6GAtXe6D2yz----"
+
+
+------MultipartBoundary--ye9AWbD3gLRYPQwTSYK4T399sryCchz6GAtXe6D2yz----
+Content-Type: text/html
+Content-ID: <frame-75912C3FB7113D4097A89EE356A0BF15@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://003a0156.satellite-scanner.pages.dev/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-dd786ede-e22a-4aec-b4a1-aa9d3883ac10@mhtml.blink" />
+  
+  <title>Satellite Scanner • Angry Droid AI</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+</head>
+<body>
+  <h1>🛰️ Satellite Scanner</h1>
+  <p>Scan the sky above your location—or the whole world—using open orbital data.</p>
+  <button id="scanBtn">Scan My Sky</button>
+  <canvas id="radarCanvas" width="300" height="300"></canvas>
+  <div id="output"></div>
+
+  <div class="attribution-block">
+    <p>© 2025 Angry Droid AI Project. All rights reserved.</p>
+    <p>Created by Chris Berry, CEO and founder.</p>
+    <p>This interface and its code are licensed for personal, educational, and non-commercial use only.</p>
+    <p>This is a registered creative module of the Angry Droid ecosystem.</p>
+    <p>Contact: <a href="mailto:angrydroid@offilive.com">angrydroid@offilive.com</a></p>
+    <p style="margin-top:1em; font-style:italic;">“Perseverance is not a long race; it is many short races one after the other.” — Walter Elliot</p>
+  </div>
+
+  
+
+
+</body></html>
+------MultipartBoundary--ye9AWbD3gLRYPQwTSYK4T399sryCchz6GAtXe6D2yz----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-dd786ede-e22a-4aec-b4a1-aa9d3883ac10@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: "Segoe UI", sans-serif; background: rgb(11, 12, 16); color: rgb(197, 198, 199); margin: 0px; padding: 2em; text-align: center; }
+
+h1 { color: rgb(102, 252, 241); }
+
+button { padding: 1em 2em; background: rgb(69, 162, 158); border: none; color: white; font-size: 1em; cursor: pointer; border-radius: 6px; margin-top: 1em; }
+
+#output { margin-top: 2em; text-align: left; max-width: 700px; margin-left: auto; margin-right: auto; background: rgb(31, 40, 51); padding: 1em; border-radius: 8px; box-shadow: rgb(69, 162, 158) 0px 0px 10px; }
+
+code { background: rgb(11, 12, 16); color: rgb(102, 252, 241); padding: 0.2em 0.4em; display: block; margin: 0.2em 0px; font-size: 0.9em; }
+
+#radarCanvas { background: rgb(11, 12, 16); border: 2px solid rgb(69, 162, 158); margin-top: 2em; border-radius: 50%; }
+
+.attribution-block { margin-top: 3em; font-size: 0.9em; color: rgb(69, 162, 158); border-top: 1px solid rgb(69, 162, 158); padding-top: 1em; max-width: 700px; margin-left: auto; margin-right: auto; }
+
+.attribution-block a { color: rgb(102, 252, 241); text-decoration: none; }
+------MultipartBoundary--ye9AWbD3gLRYPQwTSYK4T399sryCchz6GAtXe6D2yz------
