@@ -1,0 +1,71 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://nerualbrowser.pages.dev/
+Subject: =?utf-8?Q?=F0=9F=A7=A0=20Neural=20Browser?=
+Date: Thu, 28 Aug 2025 11:28:58 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--a86NtT5eQndBAcEZ5BtyPK4zjQZ9ZEjXZ7kuIvqfQp----"
+
+
+------MultipartBoundary--a86NtT5eQndBAcEZ5BtyPK4zjQZ9ZEjXZ7kuIvqfQp----
+Content-Type: text/html
+Content-ID: <frame-B06D028D884110DEB54EEED64823FEDD@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://nerualbrowser.pages.dev/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-404b9ca9-44a6-4c5e-8342-90f42780c701@mhtml.blink" />
+  
+  <title>🧠 Neural Browser</title>
+  
+</head>
+<body>
+  <div class="header">🧠 Neural Browser</div>
+  <input type="text" id="query" placeholder="Search for websites or topics...">
+  <button>Search</button>
+  <div id="results"></div>
+
+  <footer>
+    © 2025 <strong>Angry Droid AI Project</strong>. All rights reserved.<br>
+    Created by <strong>Chris Berry</strong>, CEO and founder.<br>
+    Neural Browser™ is a registered creative module of the Angry Droid ecosystem.<br>
+    Contact: <a href="mailto:angrydroid@offilive.com">angrydroid@offilive.com</a>
+  </footer>
+
+  
+
+
+</body></html>
+------MultipartBoundary--a86NtT5eQndBAcEZ5BtyPK4zjQZ9ZEjXZ7kuIvqfQp----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-404b9ca9-44a6-4c5e-8342-90f42780c701@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: "Segoe UI", sans-serif; background: rgb(13, 13, 13); color: rgb(238, 238, 238); margin: 0px; padding: 2em; }
+
+.header { font-size: 2em; margin-bottom: 1em; color: rgb(0, 255, 231); text-align: center; }
+
+input { width: 100%; padding: 0.8em; font-size: 1em; border: none; border-radius: 8px; margin-bottom: 1em; background: rgb(26, 26, 26); color: rgb(255, 255, 255); }
+
+button { padding: 0.6em 1.2em; background: rgb(0, 255, 231); border: none; border-radius: 8px; cursor: pointer; font-weight: bold; display: block; margin: 0px auto 1em; }
+
+#results { margin-top: 2em; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1em; }
+
+.result { background: rgb(17, 17, 17); border-radius: 10px; overflow: hidden; box-shadow: rgb(0, 255, 231) 0px 0px 10px; transition: transform 0.3s; padding-bottom: 1em; text-align: center; }
+
+.result:hover { transform: scale(1.05); }
+
+.result img { width: 100%; height: 160px; object-fit: cover; display: block; }
+
+.result-title { padding: 0.5em; font-size: 0.9em; color: rgb(0, 255, 255); }
+
+.visit-link { display: none; margin-top: 0.5em; color: rgb(0, 255, 231); text-decoration: underline; font-size: 0.9em; }
+
+.scan-result { margin-top: 0.5em; font-size: 0.85em; color: rgb(255, 255, 0); }
+
+footer { margin-top: 3em; font-size: 0.75rem; color: rgb(136, 136, 136); text-align: center; border-top: 1px solid rgb(51, 51, 51); padding-top: 1em; }
+
+footer a { color: rgb(0, 255, 231); text-decoration: none; }
+------MultipartBoundary--a86NtT5eQndBAcEZ5BtyPK4zjQZ9ZEjXZ7kuIvqfQp------
