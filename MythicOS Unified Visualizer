@@ -1,0 +1,62 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://mythicosvisualizer.pages.dev/
+Subject: MythicOS Unified Visualizer
+Date: Thu, 4 Sep 2025 15:25:21 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--PJauOlYyZ8DrpHYmwcaMjS4dVZhL0WjttKrNNvzzB3----"
+
+
+------MultipartBoundary--PJauOlYyZ8DrpHYmwcaMjS4dVZhL0WjttKrNNvzzB3----
+Content-Type: text/html
+Content-ID: <frame-114566D576B16651BE79B9A85DC6ED10@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://mythicosvisualizer.pages.dev/
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-f3bae03b-2805-4b9a-ba0f-8c79ef75c65f@mhtml.blink" />
+  
+  <title>MythicOS Unified Visualizer</title>
+  
+  
+</head>
+<body class="crt-amber">
+  <header>
+    <h1>🧿 MythicOS Visualizer — Capsules, Network &amp; The Oracle</h1>
+    <label for="themeToggle">Theme:</label>
+    <select id="themeToggle">
+      <option value="crt-amber">Amber</option>
+      <option value="crt-green">Green</option>
+      <option value="crt-glitch">Glitch</option>
+    </select>
+  </header>
+
+  <svg id="mythicMap" width="960" height="600"><line stroke="#888" x1="148.51662245858728" y1="409.4519409849746" x2="203.17368203709452" y2="295.4047239200052"></line><line stroke="#888" x1="148.51662245858728" y1="409.4519409849746" x2="263.2931862147017" y2="464.68855481594625"></line><line stroke="#888" x1="128.03141734280842" y1="534.408489601245" x2="148.51662245858728" y2="409.4519409849746"></line><line stroke="#888" x1="805.380817279658" y1="172.09617037437596" x2="678.8969628999449" y2="180.6665714520425"></line><line stroke="#888" x1="805.380817279658" y1="172.09617037437596" x2="839.6606795179816" y2="293.7627785451689"></line><line stroke="#888" x1="773.0429434404534" y1="49.511831466198984" x2="805.380817279658" y2="172.09617037437596"></line><circle r="8" fill="#00ffcc" cx="203.17368203709452" cy="295.4047239200052" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></circle><circle r="8" fill="#00ff88" cx="263.2931862147017" cy="464.68855481594625" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></circle><circle r="8" fill="#00ff00" cx="678.8969628999449" cy="180.6665714520425" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></circle><circle r="8" fill="#00ffff" cx="839.6606795179816" cy="293.7627785451689" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></circle><circle r="8" fill="#ffbf00" cx="148.51662245858728" cy="409.4519409849746" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></circle><circle r="8" fill="#ffbf00" cx="805.380817279658" cy="172.09617037437596" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></circle><circle r="8" fill="#999" cx="128.03141734280842" cy="534.408489601245" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></circle><circle r="8" fill="#999" cx="773.0429434404534" cy="49.511831466198984" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></circle><text font-size="10px" fill="#ccc" x="213.17368203709452" y="295.4047239200052">Security Wizard Core</text><text font-size="10px" fill="#ccc" x="273.2931862147017" y="464.68855481594625">AngryDroid Nexus</text><text font-size="10px" fill="#ccc" x="688.8969628999449" y="180.6665714520425">Neural Browser</text><text font-size="10px" fill="#ccc" x="849.6606795179816" y="293.7627785451689">The Oracle</text><text font-size="10px" fill="#ccc" x="158.51662245858728" y="409.4519409849746">resurrected_oracle</text><text font-size="10px" fill="#ccc" x="815.380817279658" y="172.09617037437596">threat_response_oracle</text><text font-size="10px" fill="#ccc" x="138.03141734280842" y="534.408489601245">init_capsule</text><text font-size="10px" fill="#ccc" x="783.0429434404534" y="49.511831466198984">defense_capsule_007</text></svg>
+
+  
+
+
+</body></html>
+------MultipartBoundary--PJauOlYyZ8DrpHYmwcaMjS4dVZhL0WjttKrNNvzzB3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-f3bae03b-2805-4b9a-ba0f-8c79ef75c65f@mhtml.blink
+
+@charset "utf-8";
+
+body.crt-amber { background: rgb(0, 0, 0); color: rgb(255, 191, 0); font-family: "Courier New", monospace; text-shadow: rgb(255, 191, 0) 0px 0px 5px; }
+
+body.crt-green { background: rgb(0, 0, 0); color: rgb(0, 255, 0); font-family: "Courier New", monospace; text-shadow: rgb(0, 255, 0) 0px 0px 5px; }
+
+body.crt-glitch { background: rgb(0, 0, 0); color: rgb(255, 0, 255); font-family: "Courier New", monospace; text-shadow: rgb(255, 0, 255) 0px 0px 3px; animation: 0.2s ease 0s infinite normal none running flicker; }
+
+@keyframes flicker { 
+  0% { opacity: 1; }
+  50% { opacity: 0.8; }
+  100% { opacity: 1; }
+}
+
+header { padding: 10px; }
+
+svg { border: 1px solid rgb(68, 68, 68); margin: 10px auto; display: block; }
+------MultipartBoundary--PJauOlYyZ8DrpHYmwcaMjS4dVZhL0WjttKrNNvzzB3------
